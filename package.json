@@ -19,6 +19,8 @@
     "tsparticles": "^1.39.0",
     "web-vitals": "^2.1.4"
   },
+
+  "homepage": "https://allencheslik0.github.io/my-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
